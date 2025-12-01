@@ -1,0 +1,11 @@
+# Arquivos de Setup Local e Ambientes
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos do Script
+setup_repo.py
+
+# Arquivos específicos do Jupyter Notebook e VS Code
+.ipynb_checkpoints/
+.vscode/ 
