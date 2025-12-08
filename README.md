@@ -61,6 +61,7 @@ For easy navigation, the content is organized by major topic:
 ├── 04_Data_Visualization/ 
 ├── 05_Regression_Models/ 
 ├── 06_Classification_Models/ 
-└── 07_Clustering_Unsupervised/
+├── 07_Clustering_Unsupervised/
+└── 08_Practical_Assagnment/
 ```
 Feel free to explore the code and solutions!
